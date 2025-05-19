@@ -1,0 +1,15 @@
+﻿HyperVHost,VMName,Site
+HyperVHost1,VM1,Data Center
+HyperVHost2,VM2,Data Center
+HyperVHost3,VM3,Data Center
+HyperVHost4,VM4,Data Center
+HyperVHost5,VM5,Remote Site 1
+HyperVHost6,VM6,Remote Site 2
+HyperVHost7,VM7,Remote Site 3
+HyperVHost8,VM8,Remote Site 4
+HyperVHost9,VM9,Remote Site 5
+HyperVHost10,VM10,Remote Site 6
+HyperVHost11,VM11,VM Ware
+HyperVHost12,VM12,VM Ware
+HyperVHost13,VM13,VM Ware
+HyperVHost14,VM14,VM Ware
