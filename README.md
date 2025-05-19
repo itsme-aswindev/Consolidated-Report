@@ -1,4 +1,4 @@
-# 🔧 Robo-VM Server Health Check Script
+# 🔧 Consolidated Report
 
 A powerful and automated PowerShell script to monitor and verify the health status of all critical infrastructure components across:
 
